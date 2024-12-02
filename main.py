@@ -6,7 +6,7 @@ from telebot.types import ForceReply
 
 
 #conexion
-TOKEN='7862828912:AAHM3axnxt7MGWD6kdGgZ9D0aZdJjgxammA'
+TOKEN=''
 bot=telebot.TeleBot(TOKEN)
 
 usuarios={}
