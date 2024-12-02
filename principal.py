@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 #conexion
-TOKEN='7862828912:AAHM3axnxt7MGWD6kdGgZ9D0aZdJjgxammA'
+TOKEN=''
 bot=telebot.TeleBot(TOKEN)
 
 user_data={}
